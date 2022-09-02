@@ -1,0 +1,25 @@
+body{
+    background-image:url(/images/image1.jpg);
+    background-repeat:no-repeat;
+    font-family: cursive;
+    color: aqua;
+}
+
+
+.text{
+    color: blueviolet;
+    text-align: left;
+}
+h1{
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.main-text{
+    color: brown;
+    text-align: right;
+}
+a{
+    color: red;
+}
